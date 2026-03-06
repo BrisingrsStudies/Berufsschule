@@ -144,7 +144,7 @@ public class Kfz {
             this.tankinhalt = tankinhalt;
         }
     }
-// Da ist nur Test
+// Da ist nur ein Test
     public void setMaxGeschw(double maxGeschw) {
         if (maxGeschw < 0) {
             System.out.println("Maximalgeschwindigkeit kann nicht negativ sein!");
