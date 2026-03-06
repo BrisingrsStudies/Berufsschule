@@ -54,7 +54,7 @@ public class Main {
         System.out.println("\n=== Tanken mit Motor an ===");
         auto.tanken(20);
 
-
+        //HALLLOOOOOOOOOO
         // --- Test 8: Normal tanken ---
         // Erwartung: Tankinhalt steigt von 10 auf 50 (voll)
         System.out.println("\n=== Normal tanken ===");
