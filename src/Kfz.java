@@ -1,4 +1,4 @@
-public class Fahrzeug {
+public class Kfz {
 
     // -------------------------------------------------------
     // Instanzvariablen (alle private -> Kapselung!)
@@ -14,7 +14,7 @@ public class Fahrzeug {
     // -------------------------------------------------------
     // Konstruktor
     // -------------------------------------------------------
-    public Fahrzeug(String kennzeichen, int tankgroesse, double tankinhalt, double maxGeschw) {
+    public Kfz(String kennzeichen, int tankgroesse, double tankinhalt, double maxGeschw) {
         this.kennzeichen = kennzeichen;
         this.tankgroesse = tankgroesse;
         this.tankinhalt  = tankinhalt;

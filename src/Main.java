@@ -3,7 +3,7 @@ public class Main {
 
         // Objekt erstellen: Kennzeichen "AC-XY-123", Tank 50L,
         // aktuell 20L drin, Maxgeschwindigkeit 200 km/h
-        Fahrzeug auto = new Fahrzeug("AC-XY-123", 50, 20.0, 200.0);
+        Kfz auto = new Kfz("AC-XY-123", 50, 20.0, 200.0);
 
 
         // --- Test 1: toString() ---
